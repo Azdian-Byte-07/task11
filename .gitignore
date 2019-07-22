@@ -1,0 +1,24 @@
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+# Translations
+*.mo
+*.pot
+# Sphinx documentation
+docs/_build/
+# PyBuilder
+target/
+### Django ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+.env
+db.sqlite3
+bye.py
+commands.txt
+
