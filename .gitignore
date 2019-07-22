@@ -21,4 +21,4 @@ local_settings.py
 db.sqlite3
 bye.py
 commands.txt
-.gitignore
+aa.txt
